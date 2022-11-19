@@ -1,5 +1,5 @@
 
-<div  align="center"><img loading="lazy" src="logo.png"  alt="Roberto Griel Filho"  /></div>
+<div align="center"><img loading="lazy" src="https://github.com/robertogriel/robertogriel/blob/main/assets/logo.png" alt="Roberto Griel Filho"  /></div>
 
 
 # Welcome to my Github Profile. 
@@ -30,6 +30,8 @@ Here I host the files and contents from all courses I studied. Almost all commen
 - My first website was programmed (Programmed? Nah, just stylized) in Yahoo GeoCities using a amazing tool called "Yahoo Page Builder". 
 - In Brazil almost personal pages are created and hosted in a free hosting service called HpG
 - The letter "S" in Java means "Slim"
+
+![Snake animation](https://github.com/robertogriel/robertogriel/blob/main/assets/snake.svg)
 
 <!--
 
