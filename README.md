@@ -1,10 +1,13 @@
 
 <div align="center"><img loading="lazy" src="https://github.com/robertogriel/robertogriel/blob/main/assets/logo.png" alt="Roberto Griel Filho"  /></div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertogriel&langs_count=20&theme=react&hide=stars&count_private=true&show_icons=true&layout=compact">
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertogriel&langs_count=20&theme=react&hide=stars&count_private=true&show_icons=true&layout=compact">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robertogriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"> ![robertogriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react)
+  <img src="https://github-readme-stats.vercel.app/api?username=robertogriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"> ![robertogriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react)
+
+</div>
 
 # Welcome to my Github Profile. 
 
