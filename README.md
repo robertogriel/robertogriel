@@ -5,11 +5,18 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertogriel&langs_count=20&theme=react&hide=stars&count_private=true&show_icons=true&layout=compact">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=robertogriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"> ![robertogriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react)
+  <img src="https://github-readme-stats.vercel.app/api?username=robertogriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"> 
 
 </div>
 
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=robertogriel">
+</div>
+
 # Welcome to my Github Profile. 
+
+## Check it out my Wakatime Profile <a href="https://wakatime.com/@robertogriel" target="_blank"><img src="https://img.shields.io/badge/DETAILS-blue.svg"></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react">
 
 ## There is a lot that you can see here:
 - 🧔 [My own repository](https://github.com/robertogriel?tab=repositories) 
