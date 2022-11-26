@@ -16,7 +16,9 @@
 # Welcome to my Github Profile. 
 
 ## Check it out my Wakatime Profile <a href="https://wakatime.com/@robertogriel" target="_blank"><img src="https://img.shields.io/badge/DETAILS-blue.svg"></a>
+<img src="https://wakatime.com/badge/user/86183310-adf3-4fce-b1f5-33f5e99f7510.svg">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react">
+
 
 ## There is a lot that you can see here:
 - 🧔 [My own repository](https://github.com/robertogriel?tab=repositories) 
