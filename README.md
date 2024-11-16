@@ -41,7 +41,7 @@ Here I host the files and contents from all courses I studied. Almost all commen
 <small>Please understand: Twitter is a parallel reality, with posts in Portuguese. Don't take anything there seriously.</small>
 
 #### Coding and listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5pgzy44f9patgnsnhd99fh0h7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5pgzy44f9patgnsnhd99fh0h7&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5pgzy44f9patgnsnhd99fh0h7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5pgzy44f9patgnsnhd99fh0h7&redirect=true)
 <br/>
 <small>(My musical choices do not affect my intellect.)</small>
 
