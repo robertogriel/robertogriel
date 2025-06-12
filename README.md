@@ -1,59 +1,97 @@
-
-<div align="center"><img loading="lazy" src="https://github.com/robertogriel/robertogriel/blob/main/assets/logo.png" alt="Roberto Griel Filho"  /></div>
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertogriel&langs_count=20&theme=react&hide=stars&count_private=true&show_icons=true&layout=compact">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=robertogriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"> 
-
+<a href="https://www.griel.dev.br" target="_blank">
+  <img src="https://github.com/robertogriel/robertogriel/blob/main/assets/logo.png" alt="Roberto Griel Filho" />
+  </a>
 </div>
 
 <div align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=robertogriel">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertogriel&langs_count=20&theme=react&hide=stars&count_private=true&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robertogriel&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
 </div>
 
-# Welcome to my Github Profile. 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=robertogriel" alt="Profile views">
+</div>
 
-## Check it out my Wakatime Profile
+
+## 👨‍💻 About Me
+
+I am **Roberto Griel Filho**, a mid-level full-stack developer with a strong focus on **PHP/Laravel** backend and **React/Next.js/React Native** frontend.
+
+Currently working at **[Meulook](https://www.meulook.com)** and **[Mobile Stock](https://www.mobilestock.com.br)** as a Backend/Frontend/Mobile Developer, I also lead the **Mobile Entregas** project, coordinating development and architecture.
+
+I am passionate about transforming ideas into code and continuously seek to expand my knowledge, including recent studies in **Artificial Intelligence, Large Language Models (LLMs), and Prompt Engineering**.
+
+🎓 Highlights:
+- Featured in the **Backend Developer NodeJS & NestJS** program ([see video, in portuguese](https://youtu.be/Cso7Dzmpzw8?t=4051))  
+- Five-time **Team Leader** in the **Hcode Lab** program  
+- Native of **Limeira-SP**, currently living in **Nova Serrana-MG**  
+- Currently studying **AI technologies**, **LLM** and **Prompt Engineering**
+
+🌐 **Portfolio:** [https://www.griel.dev.br](https://www.griel.dev.br)
+
+---
+
+## 🧰 Technical Skills
+
+**Backend:**
+
+![PHP](https://img.shields.io/badge/PHP-Advanced-brightgreen)
+![Laravel](https://img.shields.io/badge/Laravel-Advanced-brightgreen)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-brightgreen)
+![MariaDB](https://img.shields.io/badge/MariaDB-Advanced-brightgreen)
+![Pest](https://img.shields.io/badge/Pest-Testing-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Experienced-blue)
+
+**Frontend:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-brightgreen)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-brightgreen)
+![React](https://img.shields.io/badge/React-Advanced-brightgreen)
+![NextJS](https://img.shields.io/badge/NextJS-Advanced-brightgreen)
+![React Native](https://img.shields.io/badge/React%20Native-Advanced-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-brightgreen)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-brightgreen)
+![SASS](https://img.shields.io/badge/SASS-Advanced-brightgreen)
+
+**Other Tools & Concepts:**
+
+![NodeJS](https://img.shields.io/badge/NodeJS-Intermediate-green)
+![NestJS](https://img.shields.io/badge/NestJS-Beginner-yellowgreen)
+![Git](https://img.shields.io/badge/Git-Advanced-brightgreen)
+![Linux](https://img.shields.io/badge/Linux-Advanced-brightgreen)
+![Figma](https://img.shields.io/badge/Figma-Design-blue)
+![LLM & Prompt Engineering](https://img.shields.io/badge/Studying-LLMs%20&%20Prompt%20Engineering-lightgrey)
+![☕](https://img.shields.io/badge/Coffee-Ultra%20Advanced-blue)
+
+---
+
+## ⏱️ Wakatime Stats
+
 <details>
-<summary>Wakatime Details Here!</summary>
-<img src="https://wakatime.com/badge/user/86183310-adf3-4fce-b1f5-33f5e99f7510.svg">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react">
+<summary>Click to expand</summary>
+<img src="https://wakatime.com/badge/user/86183310-adf3-4fce-b1f5-33f5e99f7510.svg" alt="Wakatime badge" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react" />
 </details>
 
+---
 
-## My Skills
-<img alt="PHP is Advanced" loading="lazy" src="https://img.shields.io/badge/PHP-Advanced-brightgreen"> <img alt="MySQL is Advanced" loading="lazy" src="https://img.shields.io/badge/MySQL-Advanced-brightgreen"> <img alt="JavaScript is Advanced" loading="lazy" src="https://img.shields.io/badge/JavaScript-Advanced-brightgreen"> <img alt="NojeJS is Intermediate" loading="lazy" src="https://img.shields.io/badge/NodeJS-Intermediate-green"> <img alt="TypeScript is Advanced" loading="lazy" src="https://img.shields.io/badge/TypeScript-Advanced-brightgreen"> <img alt="React is Advanced" loading="lazy" src="https://img.shields.io/badge/React-Advanced-brightgreen"> <img alt="NextJS is Advanced" loading="lazy" src="https://img.shields.io/badge/NextJS-Advanced-brightgreen"> <img alt="React Native is Advanced" loading="lazy" src="https://img.shields.io/badge/React%20Native-Advanced-brightgreen"> <img alt="NestJS is Begginer" loading="lazy" src="https://img.shields.io/badge/NestJS-Begginer-yellowgreen"> <img alt="HTML5 is Advanced" loading="lazy" src="https://img.shields.io/badge/HTML5-Advanced-brightgreen"> <img alt="CSS3 is Advanced" loading="lazy" src="https://img.shields.io/badge/CSS3-Advanced-brightgreen"> <img alt="SASS is Advanced" loading="lazy" src="https://img.shields.io/badge/SASS-Advanced-brightgreen"> <img alt="Coffe is Ultra Advance. Easter Egg: No one make a best coffe then I" loading="lazy" src="https://img.shields.io/badge/☕ Coffe-Ultra Advanced-blue">
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-griel-filho/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/robertogrielfilho)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/robertogriel)
 
-## Where you can find me?
-<a href="https://www.linkedin.com/in/roberto-griel-filho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/robertogrielfilho"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://twitter.com/robertogriel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<sub>Note: Twitter is a parallel universe. Don’t take anything too seriously there</sub>
 
-<small>Please understand: Twitter is a parallel reality, with posts in Portuguese. Don't take anything there seriously.</small>
+---
 
-#### Coding and listening to:
+## 🎧 Now Playing
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5pgzy44f9patgnsnhd99fh0h7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5pgzy44f9patgnsnhd99fh0h7&redirect=true)
-<br/>
+<br>
 <small>(My musical choices do not affect my intellect.)</small>
 
-<hr>
-
-### ⚡ Fun fact:
-- My first website was programmed (Programmed? Nah, just stylized) in Yahoo GeoCities using a amazing tool called "Yahoo Page Builder". 
-- In Brazil almost personal pages are created and hosted in a free hosting service called HpG
-- The letter "S" in Java means "Slim"
+---
 
 ![Snake animation](https://github.com/robertogriel/robertogriel/blob/main/assets/snake.svg)
-
-<!--
-
-Soon:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
