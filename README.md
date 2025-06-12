@@ -15,20 +15,12 @@
 
 # Welcome to my Github Profile. 
 
-## Check it out my Wakatime Profile <a href="https://wakatime.com/@robertogriel" target="_blank"><img src="https://img.shields.io/badge/DETAILS-blue.svg"></a>
+## Check it out my Wakatime Profile
+<details>
+<summary>Wakatime Details Here!</summary>
 <img src="https://wakatime.com/badge/user/86183310-adf3-4fce-b1f5-33f5e99f7510.svg">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=robertogriel&theme=react">
-
-
-## There is a lot that you can see here:
-- 🧔 [My own repository](https://github.com/robertogriel?tab=repositories) 
-Here are small projects and little things. Everything new that I learned will turn into a project and will hosted here.
-
-- 💼 [Griel Developer](https://github.com/griel-dev)
-Here are the secrets, like 🅸🅸🅸🅸🅸. Just kidding, here I host the major projects, most then private because contain sensible data. Those projects can be online, or not. I will see this soon.
-
-- 📘 [Cursos](https://github.com/griel-cursos)
-Here I host the files and contents from all courses I studied. Almost all comments, files and anotation are in portuguese, so it can be stranger for you (Ou não, se você entendeu essa linha)
+</details>
 
 
 ## My Skills
