@@ -23,10 +23,11 @@ Currently working at **[Meulook](https://www.meulook.com)** and **[Mobile Stock]
 I am passionate about transforming ideas into code and continuously seek to expand my knowledge, including recent studies in **Artificial Intelligence, Large Language Models (LLMs), and Prompt Engineering**.
 
 🎓 Highlights:
-- Featured in the **Backend Developer NodeJS & NestJS** program ([see video, in portuguese](https://youtu.be/Cso7Dzmpzw8?t=4051))  
-- Five-time **Team Leader** in the **Hcode Lab** program  
-- Native of **Limeira-SP**, currently living in **Nova Serrana-MG**  
-- Currently studying **AI technologies**, **LLM** and **Prompt Engineering**
+- Lead Developer on Mobile Entregas — architected and implemented full-stack mobile delivery platform
+- Recognized in the Backend Developer NodeJS & NestJS program ([see video, in Portuguese](https://youtu.be/Cso7Dzmpzw8?t=4051))  
+- Five-time Team Leader at Hcode Lab  
+- Tutored three classes in **Back-End with NodeJS** and **Front-End with Next.js** for **Avanade**, through **FIAP São Paulo** (May/2022)  
+- Native of Limeira-SP, currently living in Nova Serrana-MG  
 
 🌐 **Portfolio:** [https://www.griel.dev.br](https://www.griel.dev.br)
 
